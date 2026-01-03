@@ -14,7 +14,7 @@
   <tr>
     <td align="center">
       <a href="https://lyzor.netlify.app/">
-        <img src="https://raw.githubusercontent.com/lushindustries/.github/main/media/doxiado.png" width="100px;" alt="Doxiado">
+        <img src="https://raw.githubusercontent.com/lushindustries/.github/main/media/beirut.png" width="100px;" alt="Doxiado">
         <br />
         <sub><b>beirùt</b></sub>
         </img>
