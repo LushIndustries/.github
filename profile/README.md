@@ -16,7 +16,7 @@
       <a href="https://lyzor.netlify.app/">
         <img src="https://raw.githubusercontent.com/lushindustries/.github/main/media/doxiado.png" width="100px;" alt="Doxiado">
         <br />
-        <sub><b>beirùt>bb></sub>
+        <sub><b>beirùt</b></sub>
         </img>
       </a>
       <br />
