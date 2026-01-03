@@ -13,14 +13,14 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://doxiado.vercel.app/">
+      <a href="https://lyzor.netlify.app/">
         <img src="https://raw.githubusercontent.com/lushindustries/.github/main/media/doxiado.png" width="100px;" alt="Doxiado">
         <br />
-        <sub><b>Doxiado</b></sub>
+        <sub><b>beirùt>bb></sub>
         </img>
       </a>
       <br />
-      <a href="https://github.com/doxiado-dev" title="Owner">👑</a>
+      <a href="https://github.com/lockfilement" title="Owner">👑</a>
     </td>
   </tr>
 </table>
